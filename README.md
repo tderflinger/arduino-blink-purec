@@ -12,8 +12,7 @@ the AVR C compiler and Avrdude.
 Under Linux install the toolchain:
 
 ```bash
-sudo apt-get update && sudo apt-get install arduino arduino-core
-sudo apt-get install gcc-avr binutils-avr gdb-avr avr-libc avrdude make
+sudo apt-get update && sudo apt-get install gcc-avr binutils-avr gdb-avr avr-libc avrdude make
 ```
 
 ## Compiling
