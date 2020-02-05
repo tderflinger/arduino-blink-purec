@@ -1,5 +1,7 @@
 # Arduino Blink PureC
 
+![Arduino Uno Blink LED](./BlinkLed.png)
+
 This is an Arduino sketch implemented as pure C.
 
 For this to compile and load to the Arduino Uno you need
