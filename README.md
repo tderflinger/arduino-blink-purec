@@ -1,5 +1,7 @@
 # Arduino Blink PureC
 
+This is the source code of my blog article: https://www.tderflinger.com/en/arduino-blinking-led-pure-c
+
 ![Arduino Uno Blink LED](./BlinkLed.png)
 
 This is an Arduino sketch implemented as pure C.
@@ -26,8 +28,8 @@ make
 ## Deploying to Arduino Uno
 
 In order to upload the binary to your Arduino Uno, check on which port
-your Arduino is connected. Replace the port with the default value
-in the Makefile (ARDUINO_USB).
+your Arduino is connected. You can see the path for example in the Arduino IDE.
+Replace the port with the default value in the Makefile (ARDUINO_USB).
 
 Then you can upload the program via:
 
@@ -37,7 +39,7 @@ make deploy
 
 ## References
 
-* https://github.com/sagarsp/arduino-blink-c
+- https://github.com/sagarsp/arduino-blink-c
 
 ## License
 
