@@ -1,3 +1,5 @@
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 # Arduino Blink PureC
 
 This is the source code of my blog article: https://www.tderflinger.com/en/arduino-blinking-led-pure-c
